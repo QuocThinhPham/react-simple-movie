@@ -1,0 +1,1 @@
+import{c as s,j as e}from"./vendor.c33075e5.js";const a=()=>s("div",{className:"h-screen flex flex-col items-center justify-center gap-5",children:[e("h3",{className:"text-6xl font-bold",children:"Whoops!"}),e("h5",{className:"text-3xl",children:"404 Page Not Found"})]});export{a as default};
