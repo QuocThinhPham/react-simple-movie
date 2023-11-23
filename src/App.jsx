@@ -15,7 +15,7 @@ export default function App() {
             <Routes>
                 <Route path='/' element={<MainLayout></MainLayout>}>
                     <Route
-                        path='/'
+                        index
                         element={
                             <>
                                 <Banner></Banner>
